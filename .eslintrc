@@ -18,6 +18,8 @@
     "import/prefer-default-export": "error"
   },
   "globals": {
+    "Tamotsu": true,
+    "BetterLog": true,
     "OAuth1": true,
     "OAuth2": true,
     "FirebaseApp": true
