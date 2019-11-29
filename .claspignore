@@ -2,4 +2,4 @@
 !appsscript.json
 !*.js
 !*.html
-!*.clasp.json
+.clasp.json
